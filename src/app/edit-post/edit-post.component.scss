@@ -1,0 +1,17 @@
+:host {
+  .pull-right {
+    display: flex;
+  }
+
+  .btn-success,
+  .btn-danger {
+    display: flex;
+    align-items: center;
+    padding: 0 14px;
+    height: 40px;
+  }
+
+  .btn-success {
+    margin-left: 14px;
+  }
+}
